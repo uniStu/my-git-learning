@@ -28,7 +28,7 @@ Hello there! This repository marks the beginning of my journey into understandin
 * **`git add`**: Understanding the "staging area" and how to prepare specific changes for my next commit. This selective staging is a game-changer!
 * **`git commit -m ""`**: Capturing a snapshot of my project's state with a descriptive message. Each commit is a milestone in my progress.
 * **`git status`**: My reliable companion to see what's changed, what's staged, and what's ready for its next step.
-* **`git config --global user.name "sihle"`**: Setting up my identity for all my Git endeavors. Personalized commits – neat!
+* **`git config --global user.name "___"`**: Setting up my identity for all my Git endeavors. Personalized commits – neat!
 
 ## My Goals for Git:
 
